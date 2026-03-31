@@ -1,0 +1,15 @@
+[project]
+name = "compare"
+description = "Simple Custom Node To display two images and compare them"
+version = "1.0.0"
+license = { file = "LICENSE" }
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/ialhabbal/compare"
+
+[tool.comfy]
+PublisherId = "ialhabbal"
+DisplayName = "compare"
+Icon = "https://raw.githubusercontent.com/ialhabbal/compare/main/compare.png"
+includes = []
